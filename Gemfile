@@ -21,7 +21,7 @@ gem "devise", "~> 4.2"
 # Simple Form
 gem "simple_form"
 # Tailwind CSS
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 3.1"
 # Database : Postgres
 gem "pg", "~> 1.1"
 
